@@ -36,11 +36,4 @@ The main game loop updates the game state and redraws the screen at regular inte
 
 How to Run
 Clone the repository:
-
-bash
-git clone https://github.com/yourusername/snake-game-tkinter.git
-cd snake-game-tkinter
-Run the game:
-
-bash
-python snake_game.py
+Run the Game 
