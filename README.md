@@ -1,4 +1,6 @@
 Snake Game 🐍
+
+
 Overview
 This project is a classic implementation of the Snake Game using Python's Tkinter library for the graphical user interface. The game challenges players to control a growing snake, navigate around the board, and eat food while avoiding collisions with the walls or the snake's own body. The game provides a simple, fun, and interactive way to learn about GUI programming and basic game mechanics in Python.
 
